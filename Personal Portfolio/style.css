@@ -1,0 +1,122 @@
+body{
+    background-image: url(background\ image.avif);
+}
+
+.name{
+    margin-left: 50px;
+    margin-right: 50%;
+    font-family: 'Roboto', sans-serif;
+}
+
+#navbarNav{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-item{
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: rgba(59, 59, 255, 0.742);
+    border-radius: 20%;
+    color: white;
+}
+
+.left-content{
+    margin-left: 50px;
+    margin-right: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10%;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    margin-top: 30%;
+    margin-bottom: 30px;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.Contact{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-top: 10%;
+    border-radius: 15px;
+}
+
+.circle-image {
+    width: 500px; 
+    height: 500px;
+    border-radius: 30%;
+    overflow: hidden;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+  
+.circle-image img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.container-fluid2{
+    margin-left: 50px;
+}
+
+.social-icons{
+    margin-left: 6%;
+}
+
+.social-icons a{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.aboutme{
+    margin-top: 7%;
+    margin-left: 5%;
+    font-family: 'Roboto', sans-serif;
+}
+.detail{
+    margin-left: 5%;
+    margin-right: 20px;
+    margin-top: 5%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+#extra{
+    margin-left: 80px;
+    margin-right: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card img{
+    width: 90%;
+    height: 90%;
+    border-radius: 10%;
+    margin: 5px 15px 5px 15px;
+}
+
+.allcard{
+    margin-left: 50px;
+    margin-right: 5%;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.allcard .card{
+    border-radius: 7%;
+}
